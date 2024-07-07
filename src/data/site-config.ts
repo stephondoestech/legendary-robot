@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Stephon Parker',
+    subtitle: 'Engineering Leader | Software Developer | Mentor | Speaker | Writer | Entrepreneur',
+    description: 'Blog for Stephon Parker, an engineering leader, software developer, mentor, speaker, writer, and entrepreneur. He is passionate about building high-performing teams, creating scalable and maintainable software, and helping others grow in their careers.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -51,22 +51,22 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
+            text: 'About',
+            href: '/about'
         },
         {
             text: 'Blog',
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Projects',
+            href: '/projects'
         }
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
+            text: 'Privacy',
+            href: '/privacy'
         },
         {
             text: 'Contact',
@@ -75,24 +75,20 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Threads',
+            href: 'https://www.threads.net/@stephondoestech'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://www.instagram.com/stephondoestech/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Email',
+            href: 'mailto:me@stephondoestech.dev'
         }
     ],
     hero: {
