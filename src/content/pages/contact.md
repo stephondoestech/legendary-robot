@@ -1,14 +1,18 @@
 ---
-title: Get in touch
+title: Let's Connect
 seo:
   title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  description: Get in touch through email or social media! Let me know what I can do for you.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Thank you for checking my website out! I'm always down for a coffee (or tea) chat. Feel free to drop me a line about how I can support.
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+_Email →_ <code>me at stephondoestech.dev</code>
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+_YouTube →_<a href='https://youtube.com/channel/UCwwWc-5s7GqH8nV9bOMeI1g'>You</a>
+
+_Threads →_
+
+_Instagram →_
+
+_GitHub →_

@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Stephon Parker',
-    subtitle: 'Engineering Leader | Software Developer | Mentor | Speaker | Writer | Entrepreneur',
+    subtitle: 'Engineering Leader | Software Developer | Mentor | Aspiring Speaker | Writer | Entrepreneur',
     description: 'Blog for Stephon Parker, an engineering leader, software developer, mentor, speaker, writer, and entrepreneur. He is passionate about building high-performing teams, creating scalable and maintainable software, and helping others grow in their careers.',
     image: {
         src: '/dante-preview.jpg',
@@ -61,6 +61,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Projects',
             href: '/projects'
+        },
+        {
+            text: 'Contact',
+            href: '/contact'
         }
     ],
     footerNavLinks: [
@@ -87,20 +91,24 @@ const siteConfig: SiteConfig = {
             href: 'https://www.instagram.com/stephondoestech/'
         },
         {
+            text: 'YouTube',
+            href: 'https://youtube.com/channel/UCwwWc-5s7GqH8nV9bOMeI1g'
+        },
+        {
             text: 'Email',
             href: 'mailto:me@stephondoestech.dev'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Empowering Innovation, Inspiring Minds, Transforming the Future.',
+        text: "I'm **Stephon Parker**, Senior Enginerring Manager (SRE) at The New Yorks Times. As an Engineering Leader and Software Developer, I harness the power of technology to drive positive change. My mission is to lead with integrity, fostering innovation and ensuring every voice is heard. I am dedicated to sharing knowledge and inspiring the next generation of engineers, guiding them to reach their full potential. Driven by a passion for innovation, a commitment to excellence, and a belief in the power of collaboration and mentorship, I strive to shape a better future.\n\n\n  When I'm not working i'm either spending every moment I can with my wonderful toddler, reading outside with my dog, gaming, or tinkering on projects around the house.", 
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: "Let's Connect",
                 href: '/contact'
             }
         ]
