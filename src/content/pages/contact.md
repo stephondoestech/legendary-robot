@@ -9,10 +9,11 @@ Thank you for checking my website out! I'm always down for a coffee (or tea) cha
 
 _Email →_ <code>me at stephondoestech.dev</code>
 
-_YouTube →_<a href='https://youtube.com/channel/UCwwWc-5s7GqH8nV9bOMeI1g'>You</a>
+_YouTube →_<a href='https://youtube.com/channel/UCwwWc-5s7GqH8nV9bOMeI1g'> @stephondoestech</a>
 
 _Threads →_
 
 _Instagram →_
 
 _GitHub →_
+ 
