@@ -11,9 +11,10 @@ _Email →_ <code>me at stephondoestech.dev</code>
 
 _YouTube →_<a href='https://youtube.com/channel/UCwwWc-5s7GqH8nV9bOMeI1g'> @stephondoestech</a>
 
-_Threads →_
+_Threads →_<a href='https://www.threads.net/@stephondoestech'> @stephondoestech</a>
 
-_Instagram →_
+_Instagram →_<a href='https://www.instagram.com/stephondoestech'> @stephondoestech</a>
 
-_GitHub →_
- 
+_GitHub →_<a href='https://github.com/stephondoestech/'> @stephondoestech</a>
+
+_LinkedIn →_<a href='https://www.linkedin.com/in/stephondoestech'> @stephondoestech</a>
