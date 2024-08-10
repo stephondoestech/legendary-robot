@@ -4,11 +4,11 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/IMG_2666.png'
+    alt: AI generated image of Stephon Parker looking while a robot flies in the background
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/IMG_2666.png)
 
 **Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 

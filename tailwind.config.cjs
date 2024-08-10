@@ -10,11 +10,11 @@ module.exports = {
         },
         extend: {
             textColor: {
-                main: '#D1DBE1'
+                main: 'rgb(var(--color-text-main) / <alpha-value>)'
             },
             backgroundColor: {
-                main: '#1A4C6D',
-                muted: '#6D3B1A'
+                main: 'rgb(var(--color-bg-main) / <alpha-value>)',
+                muted: 'rgb(var(--color-bg-muted) / <alpha-value>)'
             },
             borderColor: {
                 main: 'rgb(var(--color-border-main) / <alpha-value>)'
