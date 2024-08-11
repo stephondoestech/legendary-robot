@@ -20,13 +20,8 @@ jobs:
         steps:
             - name: Checkout your repository using git
               uses: actions/checkout@v4
-            - name: Cache node modules # This step caches the Yarn cache to speed up the build process. Adding due to this issue: https://github.com/actions/setup-node/issues/887
-              uses: actions/cache@v3
-              with:
-                  path: .yarn/cache
-                  key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-                  restore-keys: |
-                      ${{ runner.os }}-yarn-
+            - name: Install dependencies
+              run: yarn install
             - name: Install, build, and upload your site
               uses: withastro/action@v2
               with:
