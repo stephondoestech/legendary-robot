@@ -1,43 +1,35 @@
 ---
-title: About
+title: About Me
 seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/IMG_2666.png'
+    src: '/images/IMG_2666.png'
     alt: AI generated image of Stephon Parker looking while a robot flies in the background
 ---
 
-![Alt text for image](/IMG_2666.png)
+![Alt text for image](/images/IMG_2666.png)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Stephon Parker - Reliability Engineering & Systems Operations Leader
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Hello!** My name is Stephon Parker, a leader who's extremely passionate and driven about developing operationally mature systems. My background in security engineering, systems administration, and devops has helped me to to develop a unique perspective in my approach to the field of site reliability engineering.
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I excel in developing both tooling and processes to ensure the reliability of developed systems. My proficient skill set includes **Python**, **C#**, **Bash/Shell Scripting**, **Terraform**, **AWS**, and frameworks such as **Site Reliability Engineering** durable engineering and toil reduction. My developing or emerging skill set focus on technologies such as **Node.js**, **TypeScript**, **PyTorch**, **TensorFlow**, and **Amazon SageMaker**.
 
-## Innovation and Problem-Solving
+## Problem-Solving
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+Challenges presented are unique to the situation and deserve to approached as such regardless of previous experiences. My experience has been that the problem itself is usually not the where problem solvers spend the bulk of their energy. Instead we are expending energy resolving the people side of problem solving before or while we're solving the technology problem. Compassion based, user-centric problem solving is an approach that puts the user at the center of the issue I'm approaching making it easier to keep them at the heart of the work.
 
-## Global Perspective, Local Impact
+## Influences
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Given the roles and experience I've gained working in the infrastructure operations space, I've developed a unique perspective on my approach to technology. I have now work with nonprofits and small businesses (under 50 employees) to create an environment where employees feel empowered instead of fearful of technology as it develops. Some resources that continue to shape my views on engaging with technology are _The Phoenix Project_, _The DevOps Handbook_, and _Accelerate_.
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+As the tech industry quickly evolves almost day to day it's nearly a full time job to keep up. In order to keep up with learning I have shifted my focus to what I'd like to call **Journey/Problem Based Learning**. This ensures that rather than just learning random technologies, I learn what is needed to solve the problem in front of me resulting in a cross functional learning style.
 
-## Collaboration and Communication
+## Leadership Philosophy
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+My personal philosophy is to lead teams or individuals to leave the spaces we exist in better than how we found them by contributing to the well-being of others. I believe that leadership is not exclusive to a position, but is a lifestyle.
