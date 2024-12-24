@@ -18,3 +18,5 @@ _Instagram →_<a href='https://www.instagram.com/stephondoestech'> @stephondoes
 _GitHub →_<a href='https://github.com/stephondoestech/'> @stephondoestech</a>
 
 _LinkedIn →_<a href='https://www.linkedin.com/in/stephondoestech'> @stephondoestech</a>
+
+_Resume →_<a href='https://www.linkedin.com/in/stephondoestech'> @stephondoestech</a>
