@@ -6,6 +6,7 @@ isFeatured: true
 tags:
   - tech
   - software
+  - developer
 seo:
   image:
     src: '/posts/backstage.png'
