@@ -16,7 +16,7 @@ seo:
 
 # Unlocking Developer Velocity: Building an Internal Developer Platform with Backstage
 
-As organizations scale, maintaining developer velocity and productivity becomes an increasingly complex challenge. Teams find themselves navigating a labyrinth of tools—CI/CD pipelines, monitoring dashboards, software catalogs, and service management workflows—often scattered across disparate platforms. This fragmented landscape can lead to wasted time, inconsistent processes, reduced developer satisfaction, actively hinders innovation, and team productivity . [Backstage](https://backstage.io/), the open-source platform developed by Spotify that allows organizations to build a centralized internal developer platform (IDP) tailored to their unique needs. Leveraging Backstage to create a “single pane of glass” for developers, its extensibility through plugins and scaffolding, and the importance of committing to ongoing engineering investment to ensure its success.
+As organizations scale, maintaining developer velocity and productivity becomes an increasingly complex challenge. Teams find themselves navigating a labyrinth of tools—CI/CD pipelines, monitoring dashboards, software catalogs, and service management workflows—often scattered across disparate platforms. This fragmented landscape can lead to wasted time, inconsistent processes, reduced developer satisfaction, actively hinders innovation, and team productivity. [Backstage](https://backstage.io/), the open-source platform developed by Spotify that allows organizations to build a centralized internal developer platform (IDP) tailored to their unique needs. Leveraging Backstage to create a “single pane of glass” for developers, its extensibility through plugins and scaffolding, and the importance of committing to ongoing engineering investment to ensure its success.
 
 # The Value of a Centralized Internal Developer Platform
 
@@ -62,7 +62,7 @@ To ensure success, organizations should allocate a dedicated team—or at least 
 
 # Why Backstage is Worth the Investment
 
-Despite the required commitment, the payoff can be transformative. A well-implemented Backstage platform empowers developers with:
+Despite the required commitment, the payoff can be transformative if carried out intentionally. A well-implemented Backstage platform empowers developers with:
 
 - Enhanced Productivity: Developers spend less time navigating disparate tools and more time building features.
 
@@ -70,6 +70,6 @@ Despite the required commitment, the payoff can be transformative. A well-implem
 
 - Greater Operational Excellence: Centralized monitoring, CI/CD, and workflows reduce errors and accelerate incident resolution.
 
-Moreover, Backstage’s open-source nature and vibrant community mean you’re not alone in your journey. Organizations worldwide are contributing plugins, templates, and best practices, allowing you to build on a foundation of collective expertise. As software development continues to grow in complexity, having a unified developer platform becomes not just beneficial but essential. Backstage provides a proven foundation for building such a platform, with the flexibility to grow and adapt as your organization's needs evolve. While it requires investment, the alternative—letting your development ecosystem grow increasingly fragmented and complex—often proves far more costly in the long run.
+Backstage’s open-source nature and vibrant community mean you’re not alone in your journey. Organizations worldwide are contributing plugins, templates, and best practices, allowing you to build on a foundation of collective expertise. As software development continues to grow in complexity, having a unified developer platform becomes not just beneficial but essential. Backstage provides a proven foundation for building such a platform, with the flexibility to grow and adapt as your organization's needs evolve. While it requires investment, the alternative—letting your development ecosystem grow increasingly fragmented and complex—often proves far more costly in the long run.
 
 The journey to implementing Backstage is as much about organizational transformation as it is about technical implementation. It's about creating a development environment where engineers can focus on what they do best—building great software—while the platform handles the complexity of modern development workflows. For organizations ready to make this investment, Backstage offers a path to a more efficient, standardized, and developer-friendly future.
