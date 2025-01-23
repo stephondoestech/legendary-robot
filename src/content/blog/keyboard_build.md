@@ -2,7 +2,7 @@
 title: Let's Build Together
 excerpt: Here is a general look at my process for choosing what I'm going to use to build my keyboards.
 publishDate: 'June 11 2022'
-isFeatured: true
+isFeatured: false
 tags:
   - Keyboard
   - Tech
