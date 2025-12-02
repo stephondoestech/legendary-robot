@@ -12,24 +12,131 @@ seo:
 
 ## Stephon Parker - Reliability Engineering & Systems Operations Leader
 
-**Hello!** My name is Stephon Parker, a leader who's extremely passionate and driven about developing operationally mature systems. My background in security engineering, systems administration, and devops has helped me to to develop a unique perspective in my approach to the field of site reliability engineering.
+# About Me
 
-## Skills and Expertise
+I’m Stephon Parker — an engineering leader, SRE advocate, and systems thinker who believes the most resilient platforms are built by empowered teams, not just powerful tools.
 
-I excel in developing both tooling and processes to ensure the reliability of developed systems. My proficient skill set includes **Python**, **C#**, **Bash/Shell Scripting**, **Terraform**, **AWS**, and frameworks such as **Site Reliability Engineering** durable engineering and toil reduction. My developing or emerging skill set focus on technologies such as **Node.js**, **TypeScript**, **PyTorch**, **TensorFlow**, and **Amazon SageMaker**.
+For more than eight years, I’ve led engineering organizations through large-scale reliability challenges, platform modernization, and high-stakes digital events. My work blends technical strategy, operational excellence, and people-first leadership to help teams deliver consistently, calmly, and confidently.
 
-## Problem-Solving
+---
 
-Challenges presented are unique to the situation and deserve to approached as such regardless of previous experiences. My experience has been that the problem itself is usually not the where problem solvers spend the bulk of their energy. Instead we are expending energy resolving the people side of problem solving before or while we're solving the technology problem. Compassion based, user-centric problem solving is an approach that puts the user at the center of the issue I'm approaching making it easier to keep them at the heart of the work.
+## Mission Statement
 
-## Influences
+My mission is to build engineering organizations where reliability is a shared habit, clarity is the default, and teams feel empowered to solve meaningful problems. I aim to create systems and cultures that scale — not just technically, but humanly — so every engineer can do impactful work with confidence, purpose, and joy.
 
-Given the roles and experience I've gained working in the infrastructure operations space, I've developed a unique perspective on my approach to technology. I have now work with nonprofits and small businesses (under 50 employees) to create an environment where employees feel empowered instead of fearful of technology as it develops. Some resources that continue to shape my views on engaging with technology are _The Phoenix Project_, _The DevOps Handbook_, and _Accelerate_.
+---
 
-## Continuous Learning
+## Values
 
-As the tech industry quickly evolves almost day to day it's nearly a full time job to keep up. In order to keep up with learning I have shifted my focus to what I'd like to call **Journey/Problem Based Learning**. This ensures that rather than just learning random technologies, I learn what is needed to solve the problem in front of me resulting in a cross functional learning style.
+### 1. Reliability With Intention
+
+Uptime isn’t an accident. It’s the result of clear standards, thoughtful design, and teams that understand the “why” behind the work.
+
+### 2. People Over Process
+
+Tools change. Frameworks change. What endures is how we treat one another. I prioritize psychological safety, trust, and honest collaboration above everything else.
+
+### 3. Simplicity Wins
+
+Complex systems don’t need complex explanations. I believe in reducing friction, eliminating noise, and designing solutions that are easy to understand and even easier to maintain.
+
+### 4. Continuous Improvement
+
+Healthy teams iterate — on code, on culture, and on themselves. I encourage curiosity, reflection, and the freedom to try, learn, and adapt.
+
+### 5. Shared Ownership
+
+Reliability and success belong to the whole team. I build environments where accountability is collective and wins are celebrated together.
+
+---
 
 ## Leadership Philosophy
 
-My personal philosophy is to lead teams or individuals to leave the spaces we exist in better than how we found them by contributing to the well-being of others. I believe that leadership is not exclusive to a position, but is a lifestyle.
+Great engineering leadership is simple in principle, demanding in practice:  
+**set clear direction, remove obstacles, and help people grow.**
+
+My leadership approach centers on:
+
+- Operational clarity — systems and communication that reduce cognitive load
+- Aligned execution — connecting technical work to business and customer outcomes
+- Coaching and mentorship — developing engineers into confident, autonomous leaders
+- Blameless culture — learning fast without fear
+- Sustainable reliability — practices that scale without burning out teams
+
+SRE gives organizations a shared language for reliability and a framework for making tradeoffs with intention. It’s woven into how I design systems, plan roadmaps, and develop people.
+
+---
+
+## How I Think About Engineering
+
+Engineering is both a craft and a service.  
+Good systems are resilient and predictable.  
+Great systems reduce friction, clarify intent, and help people move faster.
+
+I approach engineering with three guiding principles:
+
+1. **Complexity deserves respect.**  
+   When systems get complicated, we slow down, think clearly, and design with purpose.
+
+2. **Toil is a signal, not a burden.**  
+   If work is repetitive, error-prone, or draining, we fix the system — not the person.
+
+3. **Reliability is everyone’s job.**  
+   SLOs, incident reviews, and operational maturity are shared responsibilities, not isolated disciplines.
+
+---
+
+## Career Snapshot
+
+### Senior Engineering Manager — The New York Times
+
+I led reliability, platform performance, and developer experience efforts for one of the world’s most influential news organizations.
+
+- Launched an internal developer portal serving **500+ teams**
+- Built and mentored an SRE team focused on SLOs and operational maturity
+- Architected election-night infrastructure handling **2M+ concurrent users** with zero downtime
+- Implemented DR protocols and alerting strategies that reduced MTTR by **60%**
+- Established cross-team performance, scalability, and incident frameworks
+
+### Engineering Manager — Eventbrite
+
+I drove improvements in SEO systems, creator onboarding, and platform performance that increased discoverability, retention, and revenue.
+
+### Technology Team Lead — M&T Bank
+
+I led IAM engineering for **20,000+ employees**, modernizing authentication systems and automating critical security workflows.
+
+---
+
+## Beyond the Work
+
+I run **BeaconTechConsulting LLC**, supporting small businesses and nonprofits with:
+
+- Cloud and IT strategy
+- Modern web development
+- Automation and workflow optimization
+- Lightweight SRE practices for small teams
+
+Outside of client work, I serve on nonprofit boards and volunteer in community initiatives focused on increasing access to technology, stability, and opportunity.
+
+When I’m not architecting systems (or my home lab), you’ll likely find me mentoring early-career engineers, experimenting with new tools, or helping someone untangle their infrastructure challenges.
+
+---
+
+## What Drives Me
+
+Engineering is ultimately about people.
+
+Reliable systems help teams move faster.  
+Clear processes reduce stress.  
+Healthy culture amplifies impact.  
+And the best engineering organizations are built with intention — not accident.
+
+My goal is always the same:  
+**build teams that feel supported, platforms that feel trustworthy, and systems that help everyone do their best work.**
+
+---
+
+## Let’s Connect
+
+If you’re exploring ways to strengthen reliability, transform engineering culture, or align technical strategy with your organization’s mission, I’d love to talk.
