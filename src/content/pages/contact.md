@@ -15,4 +15,4 @@ _GitHub →_<a href='https://github.com/stephondoestech/'> @stephondoestech</a>
 
 _LinkedIn →_<a href='https://www.linkedin.com/in/stephondoestech'> @stephondoestech</a>
 
-_Resume →_<a href='/files/Stephon_Resume_2025.pdf'> Resume</a>
+_Resume →_<a href='/files/manager-resume.pdf'> Resume</a>
